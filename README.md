@@ -19,4 +19,4 @@ python -m pytest -q    # 4 tests
 No cross-column rules, no regex checks, no custom messages, whole-frame operations only (not designed for very large data). Type check is by numpy dtype kind.
 
 ## Provenance
-Built with AI assistance as a learning/portfolio project.
+A learning and portfolio project.
